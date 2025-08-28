@@ -8,6 +8,7 @@
 
   printf("Elliot Ernstmeyer, Computer Engineering!\n");
   printf("I love the School of Computing!\n");
+  printf("My minor is japanese!\n");
 
   return 0;
 }
