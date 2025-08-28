@@ -10,6 +10,9 @@
   printf("I love the School of Computing!\n");
   printf("My minor is japanese!\n");
 
+  printf("My name is Mathew Pagan\n");
+  printf("My major is Electrical Enginneering\n");
+
   return 0;
 }
 
